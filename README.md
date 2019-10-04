@@ -7,3 +7,7 @@ A very basic CRUD for learning PHP and MySQL
 
 # about project
 This project contains Create, Read, Update and Delete for contacts.
+
+# it conatins files
+.php :index, conn, edit, details, update, delete
+.sql :contact_diary_design
